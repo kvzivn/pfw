@@ -1,0 +1,15 @@
+@font-face {
+  font-family: 'FuturaPT';
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: url('FuturaPTLight.otf') format('opentype');
+}
+
+@font-face {
+  font-family: 'FuturaPT';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url('FuturaPTMedium.otf') format('opentype');
+}
